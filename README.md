@@ -31,3 +31,8 @@ A Python Tkinter application for visualizing CPU and disk scheduling algorithms 
 ```bash
 mkdir scheduler_visualizer
 cd scheduler_visualizer
+```
+2. **Run the file***
+   ```python
+   python run app.py
+   ```
