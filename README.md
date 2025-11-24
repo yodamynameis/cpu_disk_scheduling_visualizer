@@ -1,3 +1,4 @@
+
 # CPU and Disk Scheduler Visualizer
 
 A Python Tkinter application for visualizing CPU and disk scheduling algorithms with interactive Gantt charts and performance metrics.
